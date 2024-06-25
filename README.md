@@ -22,11 +22,10 @@ Este codigo una ves terminado tendra una demo para la prueba de este servicio
 
 Lista de software y herramientas, incluyendo versiones, que necesitas para instalar y ejecutar este proyecto:
 
-- Sistema Operativo (por ejemplo, Ubuntu 20.04, Windows 10)
-- Lenguaje de programación (por ejemplo, Python 3.8)
-- Framework (por ejemplo, Django 3.1)
-- Base de datos (por ejemplo, PostgreSQL 12)
-- Otros...
+- Sistema Operativo (Windows 11, MacOs Sierra o posteriores, Android 10 o posteriores, Sistemas Basados en linux  )
+- Lenguaje de programación (JavaScript, TypeScript, Html5, Python 3.8)
+- Framework (React, NodeJS, Django 3.1)
+- Base de datos (MySQLlite, PostgreSQL 12)
 
 ## Contribuyendo 🖇️
 
